@@ -1,8 +1,8 @@
-# test_prime_01
+# Test Prime V0.1
 Small Backend API using Flask for Prime Hire
 
 # API CRUD Publications 1.0
-API CRUD for create publications.
+API for renting the rooms
 
 ## Installation
 
@@ -57,3 +57,4 @@ curl -H "Content-Type: application/json" -X POST -d '{ "room_name": "Blue", "cap
 ```
 curl -H "Content-Type: application/json" -X POST -d '{ "event_name": "Weeding", "event_type": "PUBLIC", "room_code": "8172Y2EP" }' http://0.0.0.0:7007/api/v1/bussiness/create_event/
 ```
+
