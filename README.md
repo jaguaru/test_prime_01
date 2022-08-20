@@ -1,8 +1,7 @@
 # Test Prime V0.1
 Small Backend API using Flask for Prime Hire
 
-# API CRUD Publications 1.0
-API for renting the rooms
+# API for renting rooms
 
 ## Installation
 
